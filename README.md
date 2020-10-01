@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3ac6b338-4cdf-42d2-8202-8ec0ad46a0a2/deploy-status)](https://app.netlify.com/sites/peaceful-shaw-b48383/deploys)
-=======
->>>>>>> 1620eb125154008d1afe96db5a8e6f2f4dfe5a87
+
 # Igune Justine Robert ReactJS Portfolio Template      
 
 ## 👇 CHECKOUT THIS LINKEDIN PROFILE FIRST 👇

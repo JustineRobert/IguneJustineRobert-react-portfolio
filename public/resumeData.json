@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Igune Justine Robert",
-    "occupation": "Full Stack Software Engineer & Developer && Instructor @TITech Africa && INUKA Academy",
-    "description": "Full Stack Software Engineer, Designer, Developer, Freelancer, Gospel Enthusiast, A Trainer(Teacher), A Farmer, A passionate Advocate for Africa's good governance, An Inspirational Speaker. #FullStackEngineer",
+    "occupation": "Full Stack Software Engineer, Developer,Instructor @TITech Africa & INUKA Academy(OneYouth OneHeart)",
+    "description": "Full Stack Software Engineer, Designer, Developer, Freelancer, Gospel Enthusiast, A Trainer(Teacher), A Farmer, A passionate Advocate for Africa's good governance, An Inspirational Speaker. #FullStackSoftwareEngineer",
     "image": "profile-img.jpeg",
-    "bio": "My name is Justine Robert Igune, I'm a Full Stack Software Engineer Developer. Currently I'm working at Inuka Academy & TITech Africa while also coaching",
+    "bio": "My name is Justine Robert Igune, I'm a Full Stack Software Engineer, Developer. Currently I'm Volunteering at INUKA Academy(OneYouth OneHeart) & TITech Africa, while also coaching",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "igunejustinerobert@gmail.com",
     "phone": "+256 782 39 7907",
     "address": {
       "street": "Entebbe Express Airport Street",
-      "city": "Busabala, Kampala",
+      "city": "Kampala",
       "state": "Uganda",
-      "zip": "ABC 256"
+      "zip": "256"
     },
     "website": "http://www.titechafrica.com",
-    "resumedownload": "http://titechafrica.com",
+    "resumedownload": "https://drive.google.com/file/d/182gFo1Lp72p9wDeTGB8rsRdkEMzRjRLs/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -43,10 +43,10 @@
     "skillmessage": "Here is a short write-up of my skills to share with you the potential employers",
     "education": [
       {
-        "school": "Unitec of Information Technoloy",
+        "school": "Unitec Institute of Technology, New Zealand",
         "degree": "Masters in Advanced Computer Science",
         "graduated": "March 2022",
-        "description": "Will Graduate with Distinction"
+        "description": "Graduated with Distinction"
       },
       {
         "school": "Open Classrooms",
@@ -64,6 +64,12 @@
         "school": "Kampala International Universiy",
         "degree": "Bachelor of Science in Information Technoloy",
         "graduated": "November 2016",
+        "description": "Graduate with Distinction"
+      },
+      {
+        "school": "Kampala International Universiy",
+        "degree": "Cisco Certified Network Associate, CCNA",
+        "graduated": "November 2012",
         "description": "Graduate with Distinction"
       }
     ],
@@ -183,15 +189,15 @@
         "user": "Igune Justine Robert"
       },
       {
-        "text": "Igune Justine Robert must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "Igune Justine Robert must be one of the most brilliant developers I've ever met! It is amazing that he's so friendly and approachable in the way of nature. Hey you, you should hire this guy, he might be one of the persons you've been missing in your team. He can really save a Software company from code nightmares due to his amazing job experience in the Software industry and I am confident that he will be one of your best developers in your team!",
         "user": "Patrick Okullu... Frontend Developer"
       },
       {
-        "text": "Igune Justine Robert, my husband must be one of the most committed Software developers I've ever seen! He is always at peace once he finds a solution and a working product if on live somewhere in the clouds. Hey you, you should consult this guy for anything related to Software Engineering, he has massive job experience and I am confident that he can fit well in any area and with any people of different backgrounds and he also has lead in an International settings for example, he was once a Zone leader since 2010 -2017 in Kampala International Church!",
+        "text": "Igune Justine Robert, my husband must be one of the most committed Software developers I've ever seen! He is always at peace once he finds a solution and a working product if on live somewhere in the clouds. Hey you, you should consult this guy for anything related to Software Engineering, he has massive job experience and I am confident that he can fit well in any area and with any people of different backgrounds and he also has lead in an International settings for example, he was once a Zone leader since 2010 -2017 in Kampala International Church and currently, he's one of the directors at the Source Christian Ministries!",
         "user": "Florence Esaete Igune... Biomedical Engineer"
       },
       {
-        "text": "That Igune Justine Robert must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "Igune Justine Robert must be one of the most brilliant Software Engineers and a great leader as such I've ever met! He is a guy so humble, down to earth yet he knows how to motivate every member in his team to do things in time and in the way they are supposed to be done. He is confident at all times even when things seem to be getting out of hand, he knows how to revive confidence in the team. I love the fact that Justine has been one of my leader and mentor who taught me the art of never giving up!",
         "user": "Stephen Okello... Backend Developer"
       },
       {
@@ -199,7 +205,7 @@
         "user": "Destin Ndebo Rugereza... Administrator at Inuka Academy & OYOH"
       },
       {
-        "text": "Igune Justine Robert is one of the most brilliant open minder developers I've ever met! He loves to contribute and share his knowledge in any possible with whoever he finds in need of it. He is also open to learning from everyone and anyone who's ing to share with him, he may be one of my favourite experienced Software Engineer and I am confident that he will be one of your best developers in your team!",
+        "text": "Igune Justine Robert is one of the most brilliant open minder Software developers I've ever met! He loves to contribute and share his knowledge in any possible way with whoever he finds in need of it(Community engagement). He is also open to learning from everyone and anyone who's interested to share with him, he is one of my favourite experienced Software Engineer and I am confident that he will be one of your best developers in your team too!",
         "user": "Steve Waziongo... Full Stack Software Engineer"
       },
       {

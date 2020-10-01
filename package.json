@@ -27,9 +27,17 @@
       "last 1 safari version"
     ]
   },
-  "description": "## 👇 CHECKOUT THIS FIRST 👇 ## https://www.linkedin.com/in/justine-robert-igune-031aa570/",
+  "description": "## 👇 CHECKOUT FIND OUT MORE ABOUT ME HERE   👇 ## https://www.linkedin.com/in/justine-robert-igune-031aa570/",
   "main": "index.js",
   "author": "Igune Justine Robert",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustineRobert/IguneJustineRobert-react-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JustineRobert/IguneJustineRobert-react-portfolio/issues"
+  },
+  "homepage": "https://github.com/JustineRobert/IguneJustineRobert-react-portfolio#readme"
 }
