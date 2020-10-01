@@ -1,7 +1,7 @@
-# Clever Programmer ReactJS Portfolio Template      
+# Igune Justine Robert ReactJS Portfolio Template      
 
 ## 👇 CHECKOUT THIS LINKEDIN PROFILE FIRST 👇
-## 
+## https://www.linkedin.com/in/justine-robert-igune-031aa570/
 
 ![https://www.linkedin.com/in/justine-robert-igune-031aa570/](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
