@@ -1,0 +1,217 @@
+{
+  "main": {
+    "name": "Igune Justine Robert",
+    "occupation": "Full Stack Software Engineer, Developer,Instructor @TITech Africa & INUKA Academy(OneYouth OneHeart)",
+    "description": "Full Stack Software Engineer, Designer, Developer, Freelancer, Gospel Enthusiast, A Trainer(Teacher), A Farmer, A passionate Advocate for Africa's good governance, An Inspirational Speaker. #FullStackSoftwareEngineer",
+    "image": "profile-img.jpeg",
+    "bio": "My name is Justine Robert Igune, I'm a Full Stack Software Engineer, Developer. Currently I'm Volunteering at INUKA Academy(OneYouth OneHeart) & TITech Africa, while also coaching",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "igunejustinerobert@gmail.com",
+    "phone": "+256 782 39 7907",
+    "address": {
+      "street": "Entebbe Express Airport Street",
+      "city": "Kampala",
+      "state": "Uganda",
+      "zip": "256"
+    },
+    "website": "http://www.titechafrica.com",
+    "resumedownload": "https://drive.google.com/file/d/182gFo1Lp72p9wDeTGB8rsRdkEMzRjRLs/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/justinerobert.igune",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/justine-robert-igune-031aa570/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/igunejustinerobert/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/JustineRobert",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here is a short write-up of my skills to share with you the potential employers",
+    "education": [
+      {
+        "school": "Unitec Institute of Technology, New Zealand",
+        "degree": "Masters in Advanced Computer Science",
+        "graduated": "March 2022",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Open Classrooms",
+        "degree": "Mastering Software Engineering Methodologies",
+        "graduated": "November 2019",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Progate",
+        "degree": "Mastering Software Engineering Methodologies",
+        "graduated": "June 2019",
+        "description": "Graduate with Distinction"
+      },
+      {
+        "school": "Kampala International Universiy",
+        "degree": "Bachelor of Science in Information Technoloy",
+        "graduated": "November 2016",
+        "description": "Graduate with Distinction"
+      },
+      {
+        "school": "Kampala International Universiy",
+        "degree": "Cisco Certified Network Associate, CCNA",
+        "graduated": "November 2012",
+        "description": "Graduate with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Inuka Academy",
+        "title": "Software Engineer Instructor",
+        "years": "July 2020 - Present",
+        "description": "Teaching Software Engineering including specifically ReactJS to thousands of students."
+      },
+      {
+        "company": "TITech Africa",
+        "title": "CEO and Senior Software Engineer",
+        "years": "Feb 2018 - Present",
+        "description": "Building Working, Responsive Softwares to our clients both locally and Remotely."
+      },
+      {
+        "company": "ESCO Uganda Ltd",
+        "title": "Quality Analyst",
+        "years": "November 2016 - February 2018",
+        "description": "Carrying all the Quality analysis of all products and ensuring clients complaints on quality were met ultimate urgency."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here is a write-up of some nice things that some people have said about me. The only truth that they have had to say about me",
+        "user": "Igune Justine Robert"
+      },
+      {
+        "text": "Igune Justine Robert must be one of the most brilliant developers I've ever met! It is amazing that he's so friendly and approachable in the way of nature. Hey you, you should hire this guy, he might be one of the persons you've been missing in your team. Justine does not joke when it comes to details, he takes details so seriously! He can really save a Software company from code nightmares due to his amazing job experience in the Software industry and I am confident that he will be one of your best developers in your team!",
+        "user": "Patrick Okullu... Frontend Developer"
+      },
+      {
+        "text": "Igune Justine Robert, my husband must be one of the most committed Software developers I've ever seen! He is always at peace once he finds a solution and a working product if on live somewhere in the clouds. Hey you, you should consult this guy for anything related to Software Engineering, he has massive job experience and I am confident that he can fit well in any area and with any people of different backgrounds and he also has lead in an International settings for example, he was once a Zone leader since 2010 -2017 in Kampala International Church and currently, he's one of the directors at the Source Christian Ministries!",
+        "user": "Florence Esaete Igune... Biomedical Engineer"
+      },
+      {
+        "text": "Igune Justine Robert must be one of the most brilliant Software Engineers and a great leader as such I've ever met! He is a guy so humble, down to earth yet he knows how to motivate every member in his team to do things in time and in the way they are supposed to be done. He is confident at all times even when things seem to be getting out of hand, he knows how to revive confidence in the team. I love the fact that Justine has been one of my leader and mentor who taught me the art of never giving up!",
+        "user": "Stephen Okello... Backend Developer"
+      },
+      {
+        "text": "Igune Justine Robert is a highly motivated, self-driven, and knowledgeable person. He is a reliable and experienced Full Stack software engineer who has mastered the development programming languages.He has experience in IT especially in Software engineering trainings and strong organizational and administrative skills with the ability to work independently and use his own initiative. He possesses a passion for refugees, sustainabledevelopment, and peaceful co-existence between people. Igune Justine Robert is also a strong Africanist. He is also inspired by ideas that bring about everlasting solutions to community challenges.",
+        "user": "Destin Ndebo Rugereza... Administrator at Inuka Academy & OYOH"
+      },
+      {
+        "text": "Igune Justine Robert is one of the most brilliant open minder Software developers I've ever met! He loves to contribute and share his knowledge in any possible way with whoever he finds in need of it(Community engagement). He is also open to learning from everyone and anyone who's interested to share with him, he is one of my favourite experienced Software Engineer and I am confident that he will be one of your best developers in your team too!",
+        "user": "Steve Waziongo... Full Stack Software Engineer"
+      },
+      {
+        "text": "Igune Justine Robert is a highly motivated, self-driven, and knowledgeable person. He is a reliable and experienced software engineer who has mastered the development programming languages. He has experience in IT training and strong organizational and administrative skills with the ability to work independently and use his own initiative. He possesses a passion for refugees, youth & Children matters, sustainable development, and peaceful co-existence between people. Justine Robert is also a strong Africanist. He is also inspired by ideas which bring about everlasting solutions to community challenges.",
+        "user": "Destin Rohn... Software Engineer & Admin at Inuka Academy"
+      }
+    ]
+  }
+}
