@@ -24,7 +24,7 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>&copy; All credit goes to TITech Africa - Copyright 2020 Igune Justine Robert</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>Design by <a title="titechafrica" href="http://www.titechafrica.com/">TITech Africa</a></li>
            </ul>
 
         </div>
