@@ -1,41 +1,19 @@
 {
-  "name": "igunejustinerobertportfolio",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "jquery": "^3.5.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-ga": "^3.1.2",
-    "react-scripts": "3.4.3"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "description": "## 👇 CHECKOUT FIND OUT MORE ABOUT ME HERE   👇 ## https://www.linkedin.com/in/justine-robert-igune-031aa570/",
+  "name": "justinerobertportfolio",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/3ac6b338-4cdf-42d2-8202-8ec0ad46a0a2/deploy-status)](https://app.netlify.com/sites/peaceful-shaw-b48383/deploys)",
   "main": "index.js",
-  "author": "Igune Justine Robert",
-  "license": "ISC",
+  "dependencies": {},
   "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JustineRobert/IguneJustineRobert-react-portfolio.git"
   },
+  "author": "Igune Justine Robert",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/JustineRobert/IguneJustineRobert-react-portfolio/issues"
   },
