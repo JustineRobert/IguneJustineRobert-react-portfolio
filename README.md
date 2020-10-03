@@ -1,17 +1,17 @@
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3ac6b338-4cdf-42d2-8202-8ec0ad46a0a2/deploy-status)](https://app.netlify.com/sites/peaceful-shaw-b48383/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ef416de-7190-4dfe-b0e0-0cfac1e936d8/deploy-status)](https://app.netlify.com/sites/mystifying-jepsen-d3b3a4/deploys)
 
 # Igune Justine Robert ReactJS Portfolio Template      
 
 ## 👇 CHECKOUT THIS LINKEDIN PROFILE FIRST 👇
 ## https://www.linkedin.com/in/justine-robert-igune-031aa570/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6ef416de-7190-4dfe-b0e0-0cfac1e936d8/deploy-status)](https://app.netlify.com/sites/mystifying-jepsen-d3b3a4/deploys)
+![https://www.linkedin.com/in/justine-robert-igune-031aa570/](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
 ## <a></a>
 
 ## Description
-This is a ReactJS based personal resume website template for participants of JavaScript ReactJS Challenge by Justine
+This is a ReactJS based personal resume website template for participants of JavaScript ReactJS Challenge by TITech Africa
 
 ## Make it Your Own!
 #### PREREQUISITES:
@@ -19,28 +19,10 @@ This is a ReactJS based personal resume website template for participants of Jav
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
-Here is the link to download zip 👉
-<a href='https://github.com/CleverProgrammers/react-portfolio'>HERE</a>
-- Open the folder in VS Code
-- Edit <code>public/resumeData.json</code> and add your personal details and projects
-- Open terminal in VS Code
-- RUN <code>npm init</code> , this command can be used to set up a new or existing npm package
-- RUN <code>npm install</code> , this command pulls out all the require node modules
-- RUN <code>npm run build</code>, this command will create a build folder for you
-- DRAG AND DROP the BUILD folder on Netlify, your app is live now for the world to see
-
+Here is the Github link, you can download a zipped folder and play wih it as follows👉
+<a href='https://github.com/JustineRobert/IguneJustineRobert-react-portfolio.git'>HERE</a>
 
 ## Credits
 
-#### All Credits Goes to TITech Africa <!--a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a -->
+#### All Credits Goes to TITech Africa 
 
-
-
-HTML Design Template
-<!--a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by TITech Africa</a>
-
-Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
-
-Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a -->
