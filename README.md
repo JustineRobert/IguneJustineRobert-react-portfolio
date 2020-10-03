@@ -22,6 +22,9 @@ This is a ReactJS based personal resume website template for participants of Jav
 Here is the Github link, you can download a zipped folder and play wih it as follows👉
 <a href='https://github.com/JustineRobert/IguneJustineRobert-react-portfolio.git'>HERE</a>
 
+## Live View of the Portfolio
+Checkout my live Portfolio👉 <a href='https://mystifying-jepsen-d3b3a4.netlify.app/'>HERE</a>
+
 ## Credits
 
 #### All Credits Goes to TITech Africa 
